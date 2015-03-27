@@ -1,7 +1,3 @@
-/**
- * Advanced Blogger TOC Script by Taufik Nurrohman
- * URL: https://plus.google.com/108949996304093815163/about
- */
 var tocConfig = {
     url: "",
     feedNum: 6,
